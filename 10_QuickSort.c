@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define MAX 5000
-#define REPEAT 100    // repeat count to amplify time
+#define REPEAT 100    
 
 int partition(long int arr[], int low, int high)
 {
